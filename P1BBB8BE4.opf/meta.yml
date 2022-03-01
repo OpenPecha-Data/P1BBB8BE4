@@ -1,0 +1,45 @@
+id: P1BBB8BE4
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 1,05: Carmavastu'
+  language: sa
+  volumes:
+    367996e4c1f344f68382f17d609d1ccc:
+      title: Carmavastūddāna
+      base_file: Carmavastūddāna.txt
+      work_id: W6D366CA2
+    1912823762c849c9898fa6328550aa03:
+      title: Koṭikarṇa, born with a golden ring in his ear, visits the Preta world
+      base_file: Koṭikarṇa, born with a golden ring in his ear, visits the Preta world.txt
+      work_id: WE74DE6B8
+    344f2e44b89f41a2b5ea46d5e868cd04:
+      title: Rājagṛhanidāna
+      base_file: Rājagṛhanidāna.txt
+      work_id: WB7965661
+    0d5a9a844d9446ae8c20ab32a636ed48:
+      title: Uddāna
+      base_file: Uddāna.txt
+      work_id: W3DC211C9
+    089fcc4c9a02449796a411a125c5060e:
+      title: Vaiśālyānidāna
+      base_file: Vaiśālyānidāna.txt
+      work_id: WE9469884
+    190cae05a0d749bbb00ac7c236c37358:
+      title: Various rules
+      base_file: Various rules.txt
+      work_id: W6197CD34
+    64b869188c814e82ade7f1bc521935a6:
+      title: Why Koṭikarṇa visits Hell
+      base_file: Why Koṭikarṇa visits Hell.txt
+      work_id: W7ED81B47
+    b445a36a4dcd490085d67b15cfee4aba:
+      title: Why Koṭikarṇa was born with a golden ear-ring
+      base_file: Why Koṭikarṇa was born with a golden ear-ring.txt
+      work_id: W4CB3B4E8
+    37b5ee6db3774ba58d7d45d3156b25fe:
+      title: Śrāvastyānidāna
+      base_file: Śrāvastyānidāna.txt
+      work_id: W96977191
+  chapter_to_tile: {}
+created_at: '2022-03-01T22:15:56.149566'
+last_modified_at: '2022-03-01T22:15:56.149573'
